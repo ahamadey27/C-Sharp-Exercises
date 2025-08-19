@@ -1,0 +1,15 @@
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/bin/Debug/net8.0/Arrays
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/alex/Documents/Github/C-Sharp-Exercises/Giraffe Academy/Arrays/obj/Debug/net8.0/ref/Arrays.dll

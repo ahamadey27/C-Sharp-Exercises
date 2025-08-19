@@ -11,5 +11,12 @@ namespace Arrays
         public string? title;
         public string? author;
         public int pages;
+
+        public Book(string aTitle, string aAuthor, int aPages) //How to make a constructor 
+        {
+            title = aTitle;
+            author = aAuthor;
+            pages = aPages;
+        }
     }
 }

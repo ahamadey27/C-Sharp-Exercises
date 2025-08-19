@@ -1,30 +1,20 @@
 ﻿using System;
+using Arrays;
 
 public class Program
 {
     static void Main(string[] args)
     {
-        try
-        {
-            System.Console.Write("Enter a number: ");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            System.Console.Write("Enter a second number: ");
-            int num2 = Convert.ToInt32(Console.ReadLine());
+        Book book1 = new Book(); //Boob object, instance of the book class
+        book1.title = "Harry Potter";
+        book1.author = "JK Rawling";
+        book1.pages = 400;
 
-            System.Console.WriteLine(num1 / num2);
-        }
-        catch (DivideByZeroException e)
-        {
-            System.Console.WriteLine(e.Message);
-        }
-        catch (FormatException e)
-        {
-            System.Console.WriteLine(e.Message);
-        }
-        finally //any code is always going to get executed no matter what
-        {
-            System.Console.WriteLine("End of program");
+        Book book2 = new Book(); //Boob object, instance of the book class
+        book2.title = "Lord of the Rings";
+        book2.author = "JK Lord";
+        book2.pages = 700;
 
-        }
+        System.Console.WriteLine(book2.title);
     }
 }
